@@ -30,7 +30,7 @@ const ProductDetails = ({
             onClick={decreaseQuantity}
             aria-label="Decrease quantity"
           >
-            <img src="/images/icon-minus.svg" alt="-" />
+            <img src="images/icon-minus.svg" alt="-" />
           </button>
           <p className="item-quantity">{selectedQuantity}</p>
           <button
@@ -38,7 +38,7 @@ const ProductDetails = ({
             onClick={increaseQuantity}
             aria-label="Increase quantity"
           >
-            <img src="/images/icon-plus.svg" alt="+" />
+            <img src="images/icon-plus.svg" alt="+" />
           </button>
         </div>
         <button
@@ -46,7 +46,7 @@ const ProductDetails = ({
           onClick={addToCart}
           aria-label="Add item to cart"
         >
-          <img src="/images/icon-cart.svg" alt="cart" /> Add to cart
+          <img src="images/icon-cart.svg" alt="cart" /> Add to cart
         </button>
       </div>
     </section>

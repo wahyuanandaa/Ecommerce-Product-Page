@@ -30,7 +30,7 @@ const ProductGallery = ({
               }
               aria-label="Previous image"
             >
-              <img src="/images/icon-previous.svg" alt="prev" />
+              <img src="images/icon-previous.svg" alt="prev" />
             </button>
             <button
               className="next-image-btn mobile-only"
@@ -39,7 +39,7 @@ const ProductGallery = ({
               }
               aria-label="Next image"
             >
-              <img src="/images/icon-next.svg" alt="next" />
+              <img src="images/icon-next.svg" alt="next" />
             </button>
           </>
         )}

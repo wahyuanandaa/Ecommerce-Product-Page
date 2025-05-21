@@ -18,10 +18,10 @@ const Header1 = ({
             onClick={() => setSidebarOpen(true)}
             aria-label="Open menu"
           >
-            <img src="/images/icon-menu.svg" alt="menu" />
+            <img src="images/icon-menu.svg" alt="menu" />
           </button>
           <div className="logo-img-container">
-            <img src="/images/logo.svg" alt="sneakers e-commerce logo" />
+            <img src="images/logo.svg" alt="sneakers e-commerce logo" />
           </div>
           <nav className="desktop-nav">
             <ul>
@@ -49,13 +49,13 @@ const Header1 = ({
             onClick={() => setCartOpen((v) => !v)}
             aria-label="Cart"
           >
-            <img src="/images/icon-cart.svg" alt="Shopping cart icon" />
+            <img src="images/icon-cart.svg" alt="Shopping cart icon" />
             {totalItems > 0 && (
               <span className="cart-item-count">{totalItems}</span>
             )}
           </button>
           <div className="user-avatar-container">
-            <img src="/images/image-avatar.png" alt="User avatar" />
+            <img src="images/image-avatar.png" alt="User avatar" />
           </div>
           {cartOpen && (
             <div className="cart-dropdown">
@@ -88,7 +88,7 @@ const Header1 = ({
                         onClick={() => removeFromCart(product.id)}
                         aria-label="Remove item from cart"
                       >
-                        <img src="/images/icon-delete.svg" alt="delete" />
+                        <img src="images/icon-delete.svg" alt="delete" />
                       </button>
                     </div>
                     <button className="checkout-btn">Checkout</button>

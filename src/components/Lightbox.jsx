@@ -22,7 +22,7 @@ const Lightbox = ({
             onClick={() => setLightboxOpen(false)}
             aria-label="Close lightbox"
           >
-            <img src="/images/icon-close.svg" alt="close" />
+            <img src="images/icon-close.svg" alt="close" />
           </button>
           <div className="lightbox-image-main-container">
             <button
@@ -34,7 +34,7 @@ const Lightbox = ({
               }
               aria-label="Previous image"
             >
-              <img src="/images/icon-previous.svg" alt="prev" />
+              <img src="images/icon-previous.svg" alt="prev" />
             </button>
             <img
               src={images[currentImageIndex].full}
@@ -50,7 +50,7 @@ const Lightbox = ({
               }
               aria-label="Next image"
             >
-              <img src="/images/icon-next.svg" alt="next" />
+              <img src="images/icon-next.svg" alt="next" />
             </button>
           </div>
           <div className="lightbox-thumbnail-gallery thumbnail-gallery">

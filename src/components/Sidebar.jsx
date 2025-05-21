@@ -10,7 +10,7 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }) =>
           onClick={() => setSidebarOpen(false)}
           aria-label="Close menu"
         >
-          <img src="/images/icon-close.svg" alt="close" />
+          <img src="images/icon-close.svg" alt="close" />
         </button>
         <ul>
           <li>
