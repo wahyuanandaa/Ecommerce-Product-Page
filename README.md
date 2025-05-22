@@ -31,12 +31,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](.\screencapture.png)
+![Live site screenshot](./screencapture.png)
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add your solution URL here](https://www.frontendmentor.io/solutions/e-commerce-product-page-Ewb49RiuNJ)
+- Live Site URL: [E-commerce Product page](https://wahyuanandaa.github.io/Ecommerce-Product-Page/)
 
 ## Features
 
