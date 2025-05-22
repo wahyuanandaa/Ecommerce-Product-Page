@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://www.frontendmentor.io/solutions/e-commerce-product-page-Ewb49RiuNJ)
+- Solution URL: [Challenge Solution](https://www.frontendmentor.io/solutions/e-commerce-product-page-Ewb49RiuNJ)
 - Live Site URL: [E-commerce Product page](https://wahyuanandaa.github.io/Ecommerce-Product-Page/)
 
 ## Features
